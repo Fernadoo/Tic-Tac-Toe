@@ -6,7 +6,7 @@ You can  try the ***pre-trained agent*** by running `python eval.py 10000`.
 
 
 
-#### Customized training and evaluating
+### Customized training and evaluating
 
 First, ***train*** the Q learning agent, run `python train.py {num_iteration}`. For example:
 
